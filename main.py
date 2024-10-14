@@ -225,7 +225,7 @@ def rules(message):
 @bot.message_handler(commands=['owner'])
 def owner(message):
     log_command(message.from_user.id, '/owner')
-    bot.send_message(message.chat.id, "📞 Contact the owner: @venomXcrazy')
+    bot.send_message(message.chat.id, "📞 Contact the owner: @venomXcrazy")
 
 # 💬 Command handler for /uptime. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁
 @bot.message_handler(commands=['uptime'])
