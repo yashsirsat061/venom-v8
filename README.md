@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/all4out1100/Telegram__bot.git
+   git clone https://github.com/VENOM-CRAZY-OP/venom-v8
    ```
 
 2. **Navigate to the project directory:**
